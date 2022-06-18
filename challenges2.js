@@ -1,5 +1,3 @@
-/* eslint-disable max-lines-per-function */
-/* eslint-disable complexity */
 // Desafio 11
 function generatePhoneNumber(array) {
   if (array.length !== 11) {

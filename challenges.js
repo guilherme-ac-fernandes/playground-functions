@@ -1,4 +1,3 @@
-/* eslint-disable complexity */
 // Desafio 1 - OK
 function compareTrue(value1, value2) {
   return value1 && value2;
