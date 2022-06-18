@@ -29,6 +29,7 @@ e => 2
 i => 3 
 o => 4 
 u => 5
+```
 
 `decode`: esta função realizada o oposto da função `encode`, recebe os números presentes nas `string` e substituí pela vogal correspondente.
 
@@ -52,4 +53,4 @@ String recebida:
   "1 cachaça, 5 cervejas e 1 copo de vinho"
 String retornada:
   "7 copos de água"
-
+```
